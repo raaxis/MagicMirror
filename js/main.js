@@ -57,4 +57,6 @@ jQuery(document).ready(function($) {
 
 	news.init();
 
+	news2.init();
+
 });
