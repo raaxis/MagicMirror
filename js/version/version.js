@@ -14,8 +14,8 @@ version.checkVersion = function () {
 		success: function (data) {
 			// The githash variable is located in index.php
 			if (data && data.gitHash !== gitHash) {
-				window.location.reload();
-				window.location.href = window.location.href;
+				//window.location.reload();
+				//window.location.href = window.location.href;
 			}
 		},
 		error: function () {
