@@ -61,6 +61,15 @@ body, html {
 	text-align: center;	
 }
 
+.center-fromtop-hor
+{
+	position: absolute;
+	top: 200px;
+	right: 50px;
+	left: 50px;
+	text-align: center;	
+}
+
 .bottom
 {
 	position: absolute;
