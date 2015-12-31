@@ -14,15 +14,15 @@
 <body>
 
 	<div class="top left">
-		<div class="date small dimmed"></div>
+		<div class="date small"></div>
 		<div class="time"></div>
 		<div class="calendar xxsmall"></div>
 	</div>
 	
 	<div class="top right">
-		<div class="windsun small dimmed"></div>
+		<div class="windsun small"></div>
 		<div class="temp"></div>
-		<div class="forecast small dimmed"></div>
+		<div class="forecast small"></div>
 	</div>
 	
 	<div class="top center-hor">
