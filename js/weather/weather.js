@@ -1,6 +1,6 @@
 var weather = {
 	// Default language is Dutch because that is what the original author used
-	lang: config.lang || 'nl',
+	lang: config.lang || 'de',
 	params: config.weather.params || null,
 	iconTable: {
 		'01d':'wi-day-sunny',
@@ -135,7 +135,7 @@ weather.updateWeatherForecast = function () {
 
 				_forecastHtml += '</tr>';
 
-				_opacity -= 0.155;
+				// _opacity -= 0.155; // decrease opacity
 
 			}
 
