@@ -25,11 +25,11 @@
 		<div class="forecast small"></div>
 	</div>
 	
-	<div class="top center-fromtop-hor">
+	<div class="top center-fromtop200-hor">
 		<div class="news medium"></div>
 	</div>
 	
-	<div class="top center-hor">
+	<div class="top center-fromtop100-hor">
 		<div class="news2 small"></div>
 	</div>
 
