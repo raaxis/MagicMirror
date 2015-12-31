@@ -30,7 +30,7 @@ var config = {
     },
     news: {
         feed: 'http://www.heise.de/newsticker/heise-atom.xml'
-    }
+    },
     news2: {
         feed: 'http://www.spiegel.de/schlagzeilen/index.rss'
     }
