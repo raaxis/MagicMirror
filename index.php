@@ -25,8 +25,12 @@
 		<div class="forecast small"></div>
 	</div>
 	
-	<div class="top center-hor">
+	<div class="top center-fromtop-hor">
 		<div class="news medium"></div>
+	</div>
+	
+	<div class="top center-hor">
+		<div class="news2 small"></div>
 	</div>
 
 <canvas id='world' style="display: block;background-color: #000000;"></canvas>
