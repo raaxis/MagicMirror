@@ -55,8 +55,8 @@ jQuery(document).ready(function($) {
 
 	weather.init();
 
-	news.init();
+//	news.init();
 
-	news2.init();
+//	news2.init();
 
 });
