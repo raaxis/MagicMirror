@@ -29,6 +29,10 @@
 <script src="js/config.js"></script>
 <script src="js/rrule.js"></script>
 <script src="js/version/version.js" type="text/javascript"></script>
+<script src="js/calendar/calendar.js" type="text/javascript"></script>
+<script src="js/compliments/compliments.js" type="text/javascript"></script>
+<script src="js/weather/weather.js" type="text/javascript"></script>
+<script src="js/time/time.js" type="text/javascript"></script>
 <script src="js/news/news.js" type="text/javascript"></script>
 <script src="js/news/news2.js" type="text/javascript"></script>
 <script src="js/main.js?nocache=<?php echo md5(microtime()) ?>"></script>
