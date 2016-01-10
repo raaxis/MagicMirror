@@ -13,18 +13,18 @@
 </head>
 <body>
 
-	<div class="top left">
+	<div class="bottom left">
 		<div class="date small"></div>
 		<div class="time"></div>
 		<div class="calendar xxsmall"></div>
 	</div>
 	
-	<div class="top right">
+	<div class="bottom right">
 		<div class="windsun small"></div>
 		<div class="temp"></div>
 		<div class="forecast small"></div>
 	</div>
-	
+	<!--
 	<div class="top center-fromtop200-hor">
 		<div class="news medium"></div>
 	</div>
@@ -32,7 +32,7 @@
 	<div class="top center-fromtop100-hor">
 		<div class="news2 small"></div>
 	</div>
-
+-->
 <canvas id='world' style="display: block;background-color: #000000;"></canvas>
 
 <script src="js/jquery.js"></script>
